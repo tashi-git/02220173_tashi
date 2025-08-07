@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<books>
+    <book>
+        <title>Harry Potter and The Philosopher Stone</title>
+        <author>JK Rowling</author>
+        <genere>Fiction</genere>
+    </book>
+    <book>
+        <title>Harry Potter and The Chambers of Secret</title>
+        <author>JK Rowling</author>
+        <genere>Fiction</genere>
+    </book>
+    <book>
+        <title>Harry Potter and The Prisoner of Azkaban</title>
+        <author>JK Rowling</author>
+        <genere>Ficiton</genere>
+    </book>
+    </books>
