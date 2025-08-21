@@ -1,0 +1,28 @@
+{
+  "title": "Books",
+  "description": "A collection of books",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "description": "Unique identifier for the book"
+      },
+
+      "title": {
+        "type": "string",
+        "description": "Title of the book"
+      },
+      "author": {
+        "type": "string",
+        "description": "Author of the book"
+      },
+      "genre": {
+        "type": "string",
+        "description": "Genre of the book"
+      }
+    },
+    "required": ["id", "title", "author", "genre"],
+  }
+}
